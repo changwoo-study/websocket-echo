@@ -1,0 +1,9 @@
+{
+    "name": "changwoo/websocket-echo",
+    "type": "wordpress-plugin",
+    "license": "gpl-v2-or-later",
+    "minimum-stability": "stable",
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
